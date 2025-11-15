@@ -1,16 +1,25 @@
-## Hi there 👋
+# GitHub Contributions
 
-<!--
-**Aasheek111/Aasheek111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I actively contribute to my projects on GitHub by pushing code, creating branches, and merging features. Each commit I make counts as a contribution, which is tracked on my GitHub profile.  
 
-Here are some ideas to get you started:
+## How Contributions Are Counted
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Default Branch Pushes**: Commits pushed to `main` or `master` show up as contributions.  
+- **Merged Branches**: Feature branches merged into the default branch also count.  
+- **Correct Author Email**: Commits must use an email linked to my GitHub account.  
+- **Private Repositories**: Contributions are counted if the visibility of private contributions is enabled in GitHub settings.  
+
+## My Workflow
+
+1. Create a branch for each feature or bug fix.  
+2. Make incremental commits with clear messages.  
+3. Push the branch to the repository.  
+4. Open a pull request and merge it into the main branch.  
+
+## Example
+
+```bash
+git checkout -b feature/navbar
+git add .
+git commit -m "Add animated navigation bar with Framer Motion variants"
+git push origin feature/navbar
