@@ -1,25 +1,35 @@
-# GitHub Contributions
+# 💻 Aashik's Tech Stack
 
-I actively contribute to my projects on GitHub by pushing code, creating branches, and merging features. Each commit I make counts as a contribution, which is tracked on my GitHub profile.  
+I am a **MERN Stack Developer** passionate about building modern web applications.
 
-## How Contributions Are Counted
+## 🌐 Frontend
 
-- **Default Branch Pushes**: Commits pushed to `main` or `master` show up as contributions.  
-- **Merged Branches**: Feature branches merged into the default branch also count.  
-- **Correct Author Email**: Commits must use an email linked to my GitHub account.  
-- **Private Repositories**: Contributions are counted if the visibility of private contributions is enabled in GitHub settings.  
+| Technology | Icon |
+|------------|------|
+| **HTML5** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **CSS3**  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **JavaScript** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **React.js** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Tailwind CSS** | ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
-## My Workflow
+## ⚙️ Backend
 
-1. Create a branch for each feature or bug fix.  
-2. Make incremental commits with clear messages.  
-3. Push the branch to the repository.  
-4. Open a pull request and merge it into the main branch.  
+| Technology | Icon |
+|------------|------|
+| **Node.js** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Express.js** | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-## Example
+## 🛠️ Tools & Others
 
-```bash
-git checkout -b feature/navbar
-git add .
-git commit -m "Add animated navigation bar with Framer Motion variants"
-git push origin feature/navbar
+| Tool | Icon |
+|------|------|
+| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **VS Code** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Postman** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **npm** | ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
+
+---
+
+> ⚡ Always learning, always building.
