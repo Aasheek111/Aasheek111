@@ -41,9 +41,16 @@
 ## 📊 GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aasheek111&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasheek111&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aasheek111&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160"
+/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aasheek111&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+/>
 </p>
+
 
 ---
 
