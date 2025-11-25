@@ -36,7 +36,8 @@ Hi! I’m a **MERN Stack Developer** passionate about building modern web apps. 
 
 ## 📊 GitHub Stats
 
-![Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aasheek111&show_icons=true&theme=radical)
+[![Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aasheek111&show_icons=true&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aasheek111&show_icons=true&theme=radical
+)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aasheek111&layout=compact&theme=radical)
 
