@@ -43,4 +43,8 @@ Hi! I’m a **MERN Stack Developer** passionate about building modern web apps. 
 
 ---
 
+![GitHub Profile Views](https://gitviews.com/user/<your-github-username>.svg)
+
+---
+
 > ⚡ Always learning, always building. give me similar code but make it more astetic and professional
