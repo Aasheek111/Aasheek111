@@ -1,6 +1,6 @@
 
 
-Hi! I’m a **MERN Stack Developer** passionate about building modern web apps. 🚀  
+Hi! I’m a **MERN Stack Developer** passionate about building modern web apps.  
 
 ---
 
