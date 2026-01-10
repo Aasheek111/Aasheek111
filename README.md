@@ -1,5 +1,8 @@
 
-[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400px" />
+</p>
+
 <p align="center">
   <a href="https://github.com/Aasheek111">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning" />
