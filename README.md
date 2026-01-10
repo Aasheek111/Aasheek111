@@ -51,9 +51,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Replace YOUR-VERCEL-URL with your own deployment for reliable stats -->
-  <img src="https://YOUR-VERCEL-URL/api?username=Aasheek111&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://YOUR-VERCEL-URL/api/top-langs/?username=Aasheek111&layout=compact&theme=react&hide_border=true" width="48%" />
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Aasheek111&theme=react&hide_border=true" width="60%" />
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranishpaudel&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
 </p>
 
 <p align="center">
