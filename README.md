@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400px" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" />
 </p>
 
 <p align="center">
@@ -14,18 +13,19 @@
 </h3>
 
 <p align="center">
-  A passionate <b>MERN Stack Developer</b> focused on building scalable, performant, and user centric web applications.
+  A passionate <b>MERN Stack Developer</b> focused on building scalable, performant, and user-centric web applications.
 </p>
 
-
-<img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" height="40" width="100" />
+<p align="center">
+  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" width="150" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/aashik-gautam-31b082315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aashik-gautam-31b082315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Aasheek111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -34,19 +34,17 @@
 ## 🧑‍💻 Tech Stack
 
 ### 🌐 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 </p>
 
-
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=5" />
 </p>
 
-
 ### 🛠️ Tools & Workflow
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=6" />
 </p>
 
@@ -55,8 +53,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aasheek111&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasheek111&layout=compact&theme=react&hide_border=true" width="48%" />
+  <!-- Replace YOUR-VERCEL-URL with your own deployment for reliable stats -->
+  <img src="https://YOUR-VERCEL-URL/api?username=Aasheek111&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://YOUR-VERCEL-URL/api/top-langs/?username=Aasheek111&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -64,13 +63,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aasheek111&label=Profile%20Views&color=38BDF8&style=flat-square" />
-</p>
-
----
-
-<p align="center">
-   <i>Always learning, always building.</i>
-</p>
