@@ -16,9 +16,7 @@
   A passionate <b>MERN Stack Developer</b> focused on building scalable, performant, and user-centric web applications.
 </p>
 
-<p align="center">
-  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" width="150" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashik-gautam-31b082315/" target="_blank">
