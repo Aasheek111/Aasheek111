@@ -36,12 +36,10 @@ Hi! I’m a **MERN Stack Developer** passionate about building modern web apps.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aasheek111&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aasheek111)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aasheek111)
+![Streak](https://streak-stats.demolab.com?user=Aasheek111)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aasheek111&layout=compact&theme=radical)
 
 
 ---
