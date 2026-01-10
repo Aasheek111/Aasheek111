@@ -18,8 +18,8 @@
 </p>
 
 
-<img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" >
-</img>
+<img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" height="40" width="100" />
+
 <p align="center">
   <a href="https://www.linkedin.com/](https://www.linkedin.com/in/aashik-gautam-31b082315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
